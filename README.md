@@ -26,4 +26,4 @@ incl. progress in percent
 ### Lessons Learned: 
 
 Copyright by you :)
-Location2 changed
+Location2 tested
